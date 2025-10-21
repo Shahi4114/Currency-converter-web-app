@@ -33,11 +33,12 @@ A simple and interactive currency converter web application that allows users to
 
 ## Project Structure
 
+```
 ├── index.html # Main HTML file
 ├── style.css # Stylesheet
 ├── code.js # JavaScript file (functionality)
 └── script.js # Additional JavaScript file (logic or API calls)
-
+```
 ---
 
 ## Future Improvements
